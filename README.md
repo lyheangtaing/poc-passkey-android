@@ -180,3 +180,12 @@ The production server must own challenges, accepted origins, public keys, signat
 - [Credential Manager prerequisites](https://developer.android.com/identity/credential-manager/prerequisites)
 - [Server-side passkey registration](https://developers.google.com/identity/passkeys/developer-guides/server-registration)
 - [Server-side passkey authentication](https://developers.google.com/identity/passkeys/developer-guides/server-authentication)
+
+
+  
+
+https://github.com/user-attachments/assets/ddea1e2a-3b71-434d-8862-9c4b11e0b012
+
+
+
+
